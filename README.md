@@ -76,7 +76,7 @@ pip install BeatNet
 
 Approach #2: Installing directly from the Git repository:
 ```
-pip install git+https://github.com/mjhydri/BeatNet
+pip install git+https://github.com/phdapps/BeatNet
 ```
 
 * Note: Before installing the BeatNet make sure 
