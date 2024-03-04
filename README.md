@@ -69,14 +69,8 @@ device: Type of device being used. Cuda or cpu (by default).
 Installation command:
 ---------------------
 
-Approach #1: Installing binaries from the pypi website:
 ```
-pip install BeatNet
-```
-
-Approach #2: Installing directly from the Git repository:
-```
-pip install git+https://github.com/phdapps/BeatNet
+pip install git+https://github.com/pauloesteban/BeatNet
 ```
 
 * Note: Before installing the BeatNet make sure 
